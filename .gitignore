@@ -1,0 +1,15 @@
+# Node modules (if you ever add Node)
+node_modules/
+
+# VS Code workspace settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Build output (if you ever compile)
+dist/
+build/
